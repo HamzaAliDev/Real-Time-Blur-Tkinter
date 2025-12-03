@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Uploaded and processed images
+uploads/
+processed/
+
+processed_videos/
+video_uploads/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
